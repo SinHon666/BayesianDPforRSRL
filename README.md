@@ -1,6 +1,6 @@
 # Bayesian Dynamic Programming for Risk-Sensitive RL
 
-> A Bayesian DP for Risk-Sensitive Reinforcement Learning (RSRL) with support for double-layered risk measures (CVaR, Mean-Semideviation, and Expectation).
+> A Bayesian DP framework for Risk-Sensitive Reinforcement Learning (RSRL) with support for double-layered risk measures (CVaR, Mean-Semideviation, and Expectation).
 
 ## Key Features
 - **Modular Agent-Environment Interface**  
